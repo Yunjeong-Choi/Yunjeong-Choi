@@ -1,10 +1,4 @@
 # **({ Yunjeong Choi })**
-효율적 문제해결에 집중하는 프론트엔드 개발자 지망생, **최윤정**입니다.
-
-## 📬 **Contact & Channel**
-* Phone. **010-9175-1527** <br />
-* Email. **m.yunjeong.choi@gmail.com** <br />
-* Blog. [**https://velog.io/@parfaite73**](https://velog.io/@parfaite73) <br />
 
 ## 👩🏻‍🔧 **Introduce**
 문제를 직접 해결할 수 있는 사람이 되고 싶어 개발공부를 시작했습니다. <br/>
@@ -12,6 +6,11 @@
 
 문제를 해결하는 가장 빠른 방법은 why를 아는 것이라 생각합니다. <br>
 항상 "**why에 대해 질문을 던지고, how를 빠르게 제시할 수 있는 개발자**"로 성장하기 위해 노력하고 있습니다.
+
+## 📬 **Contact & Channel**
+* Phone. **010-9175-1527** <br />
+* Email. **m.yunjeong.choi@gmail.com** <br />
+* Blog. [**https://velog.io/@parfaite73**](https://velog.io/@parfaite73) <br />
 
 ## 🐂 **Work Experience**
 
