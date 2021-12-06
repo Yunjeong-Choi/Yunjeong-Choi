@@ -2,9 +2,9 @@
 효율적 문제해결에 집중하는 프론트엔드 개발자 지망생, **최윤정**입니다.
 
 ## 📬 **Contact & Channel**
-Phone. **010-9175-1527** <br />
-Email. **m.yunjeong.choi@gmail.com** <br />
-Blog. [**https://velog.io/@parfaite73**](https://velog.io/@parfaite73) <br />
+* Phone. **010-9175-1527** <br />
+* Email. **m.yunjeong.choi@gmail.com** <br />
+* Blog. [**https://velog.io/@parfaite73**](https://velog.io/@parfaite73) <br />
 
 ## 👩🏻‍🔧 **Introduce**
 문제를 직접 해결할 수 있는 사람이 되고 싶어 개발공부를 시작했습니다. <br/>
