@@ -1,4 +1,4 @@
-## **({ Yunjeong Choi })**
+# **({ Yunjeong Choi })**
 효율적 문제해결에 집중하는 프론트엔드 개발자 지망생, **최윤정**입니다.
 
 ## 📬 **Contact & Channel**
