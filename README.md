@@ -11,13 +11,6 @@
 * Email. **m.yunjeong.choi@gmail.com** <br />
 * Blog. [**https://velog.io/@parfaite73**](https://velog.io/@parfaite73) <br />
 
-## 🐣 **Project**
-
-- [**사장님 결제관리 페이지**](https://github.com/Yunjeong-Choi/oilnow-sajangnim-project) (2021. 09 - 2021. 12)
-  - TypeScript, Virtual List, Throttle, Debounce, Lazy Loading, Image Carousel, 검색필터, Styled-Components 등 적용
-  - Node.js Express로 웹서버 구현
-  - 모든 화면 Figma로 직접 디자인
-
 ## 🐂 **Work Experience**
 
 ### [**| 오일나우 |**](https://www.oilnow.co.kr/)
@@ -35,6 +28,13 @@
 ### [**| 마이리얼트립 |**](https://www.myrealtrip.com/)
 
 - **마이리얼트립 플랫폼경험팀, 매니저** (2020. 01. 21 - 2021. 07. 16)
+
+## 🐣 **Project**
+
+- [**사장님 결제관리 페이지**](https://github.com/Yunjeong-Choi/oilnow-sajangnim-project) (2021. 09 - 2021. 12)
+  - TypeScript, Virtual List, Throttle, Debounce, Lazy Loading, Image Carousel, 검색필터, Styled-Components 등 적용
+  - Node.js Express로 웹서버 구현
+  - 모든 화면 Figma로 직접 디자인
 
 ## 🌬 **Skill**
 - **Front-End**: JavaScript, TypeScript, React.js, Redux, Styled-Components
