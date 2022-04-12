@@ -11,6 +11,9 @@
 * Email. **m.yunjeong.choi@gmail.com** <br />
 * Blog. [**https://velog.io/@parfaite73**](https://velog.io/@parfaite73) <br />
 
+## 🗣 Interview
+* 노마드 코더 [[파워 문과생이 개발자 전직을 선택한 이유]](https://nomadcoders.co/community/thread/3541)
+
 ## 🐂 **Work Experience**
 
 ### [**| 오일나우 |**](https://www.oilnow.co.kr/)
