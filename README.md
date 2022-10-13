@@ -1,7 +1,7 @@
 # **( Yunjeong Choi ) => Front-End Developer**
 
 문제를 직접 해결할 수 있는 사람이 되고 싶어 개발공부를 시작했습니다. <br/>
-그리고 지금, 직접 앱을 만들고 문제를 헤쳐나가는 제 모습을 보면 옳은 선택이었다고 생각합니다.
+그리고 지금, 직접 서비스를 개발하는 제 모습을 보면 옳은 선택이었다고 생각합니다.
 
 문제를 해결하는 가장 빠른 방법은 why를 아는 것이라 생각합니다. <br>
 항상 "**why에 대해 질문을 던지고, how를 빠르게 제시할 수 있는 개발자**"로 성장하기 위해 노력하고 있습니다.
@@ -33,7 +33,7 @@
 ## 🐣 **Project**
 
 - [**사장님 결제관리 페이지**](https://github.com/Yunjeong-Choi/oilnow-sajangnim-project) (2021. 09 - 2021. 12)
-  - TypeScript, Virtual List, Throttle, Debounce, Lazy Loading, Image Carousel, 검색필터, Styled-Components 등 적용
+  - TypeScript, Virtual List, Image Carousel, 검색필터, Styled-Components 등 적용
   - Node.js Express로 웹서버 구현
   - 모든 화면 Figma로 직접 디자인
 
