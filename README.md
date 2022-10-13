@@ -7,12 +7,14 @@
 항상 "**why에 대해 질문을 던지고, how를 빠르게 제시할 수 있는 개발자**"로 성장하기 위해 노력하고 있습니다.
 
 ## 📬 **Contact & Channel**
-* Phone. **010-9175-1527** <br />
-* Email. **m.yunjeong.choi@gmail.com** <br />
-* Blog. [**https://velog.io/@parfaite73**](https://velog.io/@parfaite73) <br />
+* Email. <br />
+**yunjeong.dev.2173@gmail.com** <br />
+* Blog. <br />
+[**https://yuncoco.tistory.com/**](https://yuncoco.tistory.com/) <br />
+[**https://velog.io/@parfaite73**](https://velog.io/@parfaite73) <br />
 
-## 🗣 Interview
-* 노마드 코더 [[파워 문과생이 개발자 전직을 선택한 이유]](https://nomadcoders.co/community/thread/3541)
+## 🗣 Media
+* 전직러 웨비나 [[개발자라는 직업을 확신할 수 있었던 이유]](https://youtu.be/U_2xtdQ9LIQ)
 
 ## 🐂 **Work Experience**
 
